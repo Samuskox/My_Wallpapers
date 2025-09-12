@@ -1,23 +1,24 @@
 # 🎵 Music Wallpapers Collection
 
 > Uma coleção de **wallpapers musicais** com capas de álbuns, artistas e artes relacionadas à música.  
-> Algumas imagens foram **criadas ou estendidas com IA**, outras são versões originais em alta qualidade.
+> Algumas imagens foram **criadas ou estendidas com IA**, outras são versões originais em alta qualidade, algumas imagens fui eu que editei.
 
 ---
 
 ## 📸 Exemplos
-*(adicione imagens diretas do repositório ou links)*  
 
-![Exemplo 1](./Wallpapers Albuns/Dangerous.jpg)  
-![Exemplo 2](./Wallpapers Albuns/AlligatorBiteNeverHeals1.png)  
+![Dangerous Album Cover](./Wallpapers%20Albuns/Dangerous.jpg)  
+
+![Alligator Bite Never Heals](./Wallpapers%20Albuns/AlligatorBiteNeverHeals1.png)  
+
 
 ---
 
 ## 🗂️ Estrutura do Repositório
-- `/albums` → capas de álbuns famosos  
-- `/artists` → wallpapers de artistas musicais  
-- `/extended` → imagens expandidas ou recriadas com IA  
-- `/others` → artes musicais diversas  
+- `/Wallpapers Albuns` → Capas de álbuns que gosto
+- `/AlternativesWallpapersIdontWant` → Imagens alternativas que não foram incluídas
+- `/Wallpapers Games` → Wallpapers relacionados a jogos (Futuramente irei expandir para wallpapers de jogos)
+- `/KritaArchives` → Arquivos de trabalho do Krita
 
 ---
 
