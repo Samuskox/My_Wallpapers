@@ -25,5 +25,5 @@
 ## 🚀 Como usar
 1. Baixe o repositório:
    ```bash
-   git clone https://github.com/seuusuario/music-wallpapers.git
+   git clone https://github.com/Samuskox/My_Wallpapers/
 
